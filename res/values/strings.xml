@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">短信拦截</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="soundbutton">开启声音</string>
+    <string name="virbutton">开启震动</string>
+    <string name="s0">关闭声音</string>
+    <string name="v0">关闭震动</string>
+
+</resources>
